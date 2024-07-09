@@ -1,5 +1,16 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0"><channel><title>SOLU道TION</title><link>https://blog.kk666.cloudns.org</link><description>我们的恶毒和善良都不够纯粹，所以我们痛苦、挣扎、彷徨</description><copyright>SOLU道TION</copyright><docs>http://www.rssboard.org/rss-specification</docs><generator>python-feedgen</generator><image><url>https://github.com/kklee888/blog.github.io/assets/141330778/e7af1615-4bb4-454a-aad7-98963af83858</url><title>avatar</title><link>https://blog.kk666.cloudns.org</link></image><lastBuildDate>Mon, 08 Jul 2024 07:54:43 +0000</lastBuildDate><managingEditor>SOLU道TION</managingEditor><ttl>60</ttl><webMaster>SOLU道TION</webMaster><item><title>24.7.8收</title><link>https://blog.kk666.cloudns.org/post/24.7.8-shou.html</link><description>| 类型             | 标准          | 温值             | 温度   |  备注 |&#13;
+<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0"><channel><title>SOLU道TION</title><link>https://blog.kk666.cloudns.org</link><description>我们的恶毒和善良都不够纯粹，所以我们痛苦、挣扎、彷徨</description><copyright>SOLU道TION</copyright><docs>http://www.rssboard.org/rss-specification</docs><generator>python-feedgen</generator><image><url>https://github.com/kklee888/blog.github.io/assets/141330778/e7af1615-4bb4-454a-aad7-98963af83858</url><title>avatar</title><link>https://blog.kk666.cloudns.org</link></image><lastBuildDate>Tue, 09 Jul 2024 08:35:16 +0000</lastBuildDate><managingEditor>SOLU道TION</managingEditor><ttl>60</ttl><webMaster>SOLU道TION</webMaster><item><title>24.7.9收</title><link>https://blog.kk666.cloudns.org/post/24.7.9-shou.html</link><description>| 类型             | 标准          | 温值             | 温度   |  备注 |&#13;
+|--------------|------------|--------------|--------|------ |&#13;
+| 涨跌停家数   |   49：8     |0-20              |   10    |     昨停6      |&#13;
+| 成交量能      | &gt;8000亿   | 10-20   |   10    |   7244 比昨+24.48%|&#13;
+| 封板率          |60%&gt;70%-80%|5-10-20   |    20     |89%             |&#13;
+| 20CM数       |     &gt;=7家    |   10             |     10    |   12             |&#13;
+| 指数涨跌      |  上涨          |  10               |     10    |       +36.92         |&#13;
+| 连板晋级数   |  今&gt;昨       |  10               |     5    |     5 昨 4           |&#13;
+| 持续热点       |   有           |   10              |      0   |       无          |&#13;
+| 总体情绪温度 |                 |                    |     65   |&#13;
+&#13;
+### 今天上证、深成、创业上涨全部超过1%，今天比昨天全天增量1425亿；中证500、中证1000、上证50全部放量上涨，整个市场被神秘资金操控着，刚开盘的时候是缩量的，比昨天缩量20%；10点钟后市场突然开始放量上涨，涨了不少，但是有一个需要小心的点，跌停的个股家数比昨天多了2家，一共8家。</description><guid isPermaLink="true">https://blog.kk666.cloudns.org/post/24.7.9-shou.html</guid><pubDate>Tue, 09 Jul 2024 08:34:34 +0000</pubDate></item><item><title>24.7.8收</title><link>https://blog.kk666.cloudns.org/post/24.7.8-shou.html</link><description>| 类型             | 标准          | 温值             | 温度   |  备注 |&#13;
 |--------------|------------|--------------|--------|------ |&#13;
 | 涨跌停家数   |   19：6     |0-20              |   0    | 昨跌停2家          |&#13;
 | 成交量能      | &gt;8000亿   | 10-20           |    0     | 5820比昨+1.24%|&#13;
