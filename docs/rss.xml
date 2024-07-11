@@ -1,5 +1,16 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0"><channel><title>SOLU道TION</title><link>https://blog.kk666.cloudns.org</link><description>我们的恶毒和善良都不够纯粹，所以我们痛苦、挣扎、彷徨</description><copyright>SOLU道TION</copyright><docs>http://www.rssboard.org/rss-specification</docs><generator>python-feedgen</generator><image><url>https://github.com/kklee888/blog.github.io/assets/141330778/e7af1615-4bb4-454a-aad7-98963af83858</url><title>avatar</title><link>https://blog.kk666.cloudns.org</link></image><lastBuildDate>Wed, 10 Jul 2024 07:34:01 +0000</lastBuildDate><managingEditor>SOLU道TION</managingEditor><ttl>60</ttl><webMaster>SOLU道TION</webMaster><item><title>24.7.10收</title><link>https://blog.kk666.cloudns.org/post/24.7.10-shou.html</link><description>| 类型             | 标准          | 温值             | 温度   |  备注 |&#13;
+<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0"><channel><title>SOLU道TION</title><link>https://blog.kk666.cloudns.org</link><description>我们的恶毒和善良都不够纯粹，所以我们痛苦、挣扎、彷徨</description><copyright>SOLU道TION</copyright><docs>http://www.rssboard.org/rss-specification</docs><generator>python-feedgen</generator><image><url>https://github.com/kklee888/blog.github.io/assets/141330778/e7af1615-4bb4-454a-aad7-98963af83858</url><title>avatar</title><link>https://blog.kk666.cloudns.org</link></image><lastBuildDate>Thu, 11 Jul 2024 07:40:39 +0000</lastBuildDate><managingEditor>SOLU道TION</managingEditor><ttl>60</ttl><webMaster>SOLU道TION</webMaster><item><title>24.7.11收</title><link>https://blog.kk666.cloudns.org/post/24.7.11-shou.html</link><description>| 类型             | 标准          | 温值             | 温度   |  备注 |&#13;
+|--------------|------------|--------------|--------|------ |&#13;
+| 涨跌停家数   |    77：0    |0-20              |   20    |     昨41：16     |&#13;
+| 成交量能      | &gt;8000亿   | 10-20           |    10     |7870Y比昨+16.15%|&#13;
+| 封板率          |60%&gt;70%-80%|5-10-20   |    20     |80%               |&#13;
+| 20CM数       |     &gt;=7家    |   10             |     0    |         6              |&#13;
+| 指数涨跌      |  上涨          |  10               |    10   |         +31                  |&#13;
+| 连板晋级数   |  今&gt;昨       |  10               |     10    |        10        |&#13;
+| 持续热点       |   有           |   10              |      0   |       无          |&#13;
+| 总体情绪温度 |                 |                    |     70   |&#13;
+&#13;
+## 昨天收盘后，村里出了政策，暂停转融券，本来以为要停就把转融通全部都停了，不过已经很不错了；量化目前看来还是以制定监管文件来实施，村里并不想把这种交易停掉，虽然目前这种交易不适合现在的中国二级市场交易，但总的方向未来应该是交易皆量化。</description><guid isPermaLink="true">https://blog.kk666.cloudns.org/post/24.7.11-shou.html</guid><pubDate>Thu, 11 Jul 2024 07:40:10 +0000</pubDate></item><item><title>24.7.10收</title><link>https://blog.kk666.cloudns.org/post/24.7.10-shou.html</link><description>| 类型             | 标准          | 温值             | 温度   |  备注 |&#13;
 |--------------|------------|--------------|--------|------ |&#13;
 | 涨跌停家数   |    41：16    |0-20              |   5    |     昨49：8      |&#13;
 | 成交量能      | &gt;8000亿   | 10-20           |    0     |6776Y比昨-6.47%|&#13;
